@@ -1,1 +1,2 @@
-# https://taegyoo1104.github.io/HoduProject/hodu.html
+OrmiFrontEnd 1차 프로젝트
+Hodu Page 구현

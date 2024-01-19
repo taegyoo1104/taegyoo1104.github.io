@@ -314,6 +314,11 @@ body {
 .modal-image img {
     margin: 10px;
 }
+
+#modal-close{
+      cursor: pointer;
+    }
+
 .footer {
     position: relative;
     height: 500px;
